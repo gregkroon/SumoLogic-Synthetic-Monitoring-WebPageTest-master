@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<configuration>
+	<WebPageTestServer>13.54.46.212</WebPageTestServer>
+	<SumoHttpEndpoint>https://collectors.au.sumologic.com/receiver/v1/http/ZaVnC4dhaV0kQfkB0iu-uQ6_4xJ6e-_RvZ0cMrAnWD_1AXEh4dKMp-lA9QSnKG356jN5AMy8RcfXNOSGh2SXjJ93Bgyvy8grJJ0wvgXaWeI55EV4nxfXCw==</SumoHttpEndpoint>
+	<WebPageTestLocation>ap-southeast-2:Chrome</WebPageTestLocation>
+	<WebPageTestAPIKey>MunkyTest</WebPageTestAPIKey>
+	<ScheduleIntervalMins>5</ScheduleIntervalMins>
+	<site id="1">
+		<url>www.sumologic.com</url>
+	</site>
+	<site id="2">
+		<url>www.appdynamics.com</url>
+	</site>
+	<site id="3">
+		<url>www.dynatrace.com</url>
+	</site>
+</configuration>
